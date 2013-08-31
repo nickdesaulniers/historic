@@ -21,6 +21,7 @@
   ],
   "author": "Nick Desaulniers",
   "license": "Beerware",
-  "gitHead": "ae6f6f037e48319900269f618eec865189a90425",
-  "readmeFilename": "README.md"
+  "dependencies": {
+    "csv": "0.3.6"
+  }
 }
