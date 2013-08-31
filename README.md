@@ -1,7 +1,7 @@
-#Yahoo Historic Stock
+#Yahoo Historic Stock Quote Data
 Fetch historic stock data from yahoo
 
-##Usgae
+##Usage
 `npm install historic`
 ```javascript
 var historic = require('historic');
