@@ -1,6 +1,6 @@
 {
   "name": "historic",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fetch historic stock data from yahoo",
   "main": "lib/historic.js",
   "directories": {
